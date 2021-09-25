@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zishan Ahmed 
 - 👀 I’m interested in ...Data science
-- 🌱 I’m currently learning ... Ha
-- 💞️ I’m looking to collaborate on ... Analysis
+- 🌱 I’m currently learning ... Everything related ot data 
+- 💞️ I’m looking to collaborate on ... Analytics
 - 📫 How to reach me ... ace.zishan@gmail.com
 
 <!---
